@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\Tæller\Tæller\bin\Debug\Tæller.exe.config
+C:\Users\david\source\repos\Tæller\Tæller\bin\Debug\Tæller.exe
+C:\Users\david\source\repos\Tæller\Tæller\bin\Debug\Tæller.pdb
+C:\Users\david\source\repos\Tæller\Tæller\obj\Debug\Tæller.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Tæller\Tæller\obj\Debug\Tæller.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\source\repos\Tæller\Tæller\obj\Debug\Tæller.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tæller\Tæller\obj\Debug\Tæller.exe
+C:\Users\david\source\repos\Tæller\Tæller\obj\Debug\Tæller.pdb
